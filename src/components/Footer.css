@@ -1,0 +1,13 @@
+.footer {
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    height: 40vh;
+    width: 100%;
+    background-color: grey;
+}
+
+.trademark {
+    font-size: 25px;
+    font-weight: 500;
+}
